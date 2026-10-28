@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=TRAN%20HOC&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%2F%20BACKEND%20%2F%20VIETNAM&descSize=16&descAlignY=58" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TRAN%20HOC&fontSize=60&fontAlignY=45&fontColor=ffffff" alt="Header" width="100%" />
 
 **Building useful things. Learning how systems work.**
 
-Software Engineering student at the University of Transport and Communications, Ho Chi Minh City (UTH)<br>
+IT student at the University of Transport and Communications, Ho Chi Minh City (UTH)<br>
 with a growing focus on backend development.<br>
 Turning everyday problems into working applications.
 
